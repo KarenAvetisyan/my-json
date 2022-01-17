@@ -1,0 +1,50 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "imgUrl": "https://cf.shopee.ph/file/e5c01926a179dcb7232e2ce52fd9b57f",
+            "category": ["Игрушка", "Мартышка", "Мишка"],
+            "title": "Длинное название товара в одну строчку",
+            "price": "350000",
+            "old_price": "450500",
+            "discount": "-10"
+        },
+        {
+            "id": 1,
+            "imgUrl": "https://cf.shopee.ph/file/e5c01926a179dcb7232e2ce52fd9b57f",
+            "category": ["Игрушка", "Мартышка", "Мишка"],
+            "title": "Длинное название товара в одну строчку",
+            "price": "350000",
+            "old_price": "450500",
+            "discount": "-10"
+        },
+        {
+            "id": 2,
+            "imgUrl": "https://cf.shopee.ph/file/e5c01926a179dcb7232e2ce52fd9b57f",
+            "category": ["Игрушка", "Мартышка", "Мишка"],
+            "title": "Длинное название товара в одну строчку",
+            "price": "350000",
+            "old_price": "450500",
+            "discount": "-10"
+        },
+        {
+            "id": 3,
+            "imgUrl": "https://cf.shopee.ph/file/e5c01926a179dcb7232e2ce52fd9b57f",
+            "category": ["Игрушка", "Мартышка", "Мишка"],
+            "title": "Длинное название товара в одну строчку",
+            "price": "350000",
+            "old_price": "450500",
+            "discount": "-10"
+        },
+        {
+            "id": 4,
+            "imgUrl": "https://cf.shopee.ph/file/e5c01926a179dcb7232e2ce52fd9b57f",
+            "category": ["Подарок", "Мартышка"],
+            "title": "Длинное название товара в одну строчку",
+            "price": "350000",
+            "old_price": "450500",
+            "discount": "-10"
+        }
+        
+    ]
+}
