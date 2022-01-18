@@ -2,48 +2,48 @@
     "products": [
         {
             "id": 0,
-            "imgUrl": "https://cf.shopee.ph/file/e5c01926a179dcb7232e2ce52fd9b57f",
+            "imgUrl": "https://image.made-in-china.com/202f0j00oEvUgnQaaZzw/12V-Low-Price-Kids-Electric-Battery-Kids-Toys-Car-2019-Baby-Car-for-Children-Driving-Ride-on-Electric-Toy-Car-for-Kids-to-Drive.webp",
             "category": ["Игрушка", "Мартышка", "Мишка", "Подарок коллегам"],
-            "title": "Длинное название товара в одну строчку",
-            "price": "350000",
-            "old_price": "450500",
-            "discount": "-10"
+            "title": "Новая игрушка для мальчиков и девочек...",
+            "price": "102100",
+            "old_price": "50000",
+            "discount": "-20"
         },
         {
             "id": 1,
-            "imgUrl": "https://cf.shopee.ph/file/e5c01926a179dcb7232e2ce52fd9b57f",
+            "imgUrl": "https://image.made-in-china.com/202f0j00VoWitPBdZSuI/2021-Popular-Child-Kids-Bike-18inch-20-Inch-Children-Bicycle-for-3-12-Years-Old-Boy-and-Girl.webp",
             "category": ["Игрушка", "Мартышка", "Мишка"],
-            "title": "Длинное название товара в одну строчку",
-            "price": "350000",
-            "old_price": "450500",
-            "discount": "-10"
+            "title": "Футболный мяч",
+            "price": "5000",
+            "old_price": "120500",
+            "discount": "-40"
         },
         {
             "id": 2,
-            "imgUrl": "https://cf.shopee.ph/file/e5c01926a179dcb7232e2ce52fd9b57f",
+            "imgUrl": "https://image.made-in-china.com/202f0j00TBdVfOgnACbQ/New-Design-Cheap-Children-Bicycle-Kids-Bike-of-12-quot-16-quot-20-quot-Inch-Kids-Bicycle.webp",
             "category": ["Игрушка", "Мартышка", "Мишка"],
-            "title": "Длинное название товара в одну строчку",
-            "price": "350000",
-            "old_price": "450500",
-            "discount": "-10"
+            "title": "Lorem Ipsum is simply dummy text and typesetting industry...",
+            "price": "300",
+            "old_price": "500",
+            "discount": "-15"
         },
         {
             "id": 3,
-            "imgUrl": "https://cf.shopee.ph/file/e5c01926a179dcb7232e2ce52fd9b57f",
+            "imgUrl": "https://image.made-in-china.com/202f0j00ZGpRkoUhYlce/New-Design-Baby-Balance-Bikes-Bicycle.webp",
             "category": ["Игрушка", "Мартышка", "Мишка", "День Рождения Гриши", "Подарок коллегам"],
-            "title": "Длинное название товара в одну строчку",
-            "price": "350000",
-            "old_price": "450500",
-            "discount": "-10"
+            "title": "Lorem Ipsum has been the industry's standard dummy text...",
+            "price": "33000",
+            "old_price": "320500",
+            "discount": "-35"
         },
         {
             "id": 4,
             "imgUrl": "https://cf.shopee.ph/file/e5c01926a179dcb7232e2ce52fd9b57f",
             "category": ["Подарок", "Мартышка", "День Рождения Гриши"],
             "title": "Длинное название товара в одну строчку",
-            "price": "350000",
-            "old_price": "450500",
-            "discount": "-10"
+            "price": "45066",
+            "old_price": "210500",
+            "discount": "-20"
         }
         
     ]
