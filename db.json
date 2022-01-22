@@ -7,7 +7,8 @@
             "title": "Новая игрушка для мальчиков и девочек",
             "price": 102100,
             "old_price": 50000,
-            "discount": "-20"
+            "discount": "-20",
+            "order_number": "664-333"
         },
         {
             "id": 1,
@@ -16,7 +17,8 @@
             "title": "Футболный мяч",
             "price": 5000,
             "old_price": 120500,
-            "discount": "-40"
+            "discount": "-40",
+            "order_number": "564-332"
         },
         {
             "id": 2,
@@ -25,7 +27,8 @@
             "title": "Lorem Ipsum is simply dummy text and typesetting industry",
             "price": 300,
             "old_price": 500,
-            "discount": "-15"
+            "discount": "-15",
+            "order_number": "332-448"
         },
         {
             "id": 3,
@@ -34,7 +37,8 @@
             "title": "Lorem Ipsum has been the industry's standard dummy text",
             "price": 33000,
             "old_price": 320500,
-            "discount": "-35"
+            "discount": "-35",
+            "order_number": "001-550"
         },
         {
             "id": 4,
@@ -43,7 +47,8 @@
             "title": "Длинное название товара в одну строчку",
             "price": 45066,
             "old_price": 210500,
-            "discount": "-20"
+            "discount": "-20",
+            "order_number": "122-667"
         }
         
     ]
